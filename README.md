@@ -1,4 +1,4 @@
-# 🍳 Recipe Book (Angular)
+# 🍳 Recipe Book
 
 A modern, responsive recipe book application built with Angular. Users can manage recipes—create, read, update, and delete (CRUD)—and enjoy an immersive, menu-driven interface.
 
@@ -30,34 +30,6 @@ A modern, responsive recipe book application built with Angular. Users can manag
 
 ![Home](images/home.png)  
 ![Add Recipe](images/add-recipe.png)
-
-*(Add screenshots or animated GIFs here)*
-
----
-
-## 📁 Project Structure
-
-recipe_book_angular/
-├── src/
-│ ├── app/
-│ │ ├── components/
-│ │ │ ├── recipe-list/ # Lists all recipes
-│ │ │ ├── recipe-detail/ # Displays details
-│ │ │ └── recipe-form/ # Add/Edit form
-│ │ ├── models/
-│ │ │ └── recipe.model.ts # Recipe interface definition
-│ │ ├── services/
-│ │ │ └── recipe.service.ts # CRUD & storage logic
-│ │ ├── app-routing.module.ts # Application routes
-│ │ └── app.module.ts # Root module
-│ ├── assets/
-│ │ └── icons, images…
-│ └── styles.scss # Global styles
-│
-├── angular.json
-├── package.json
-└── README.md
-
 
 ---
 
@@ -141,6 +113,7 @@ Contributions are very welcome! To add features or fix bugs:
 ## 📄 License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
-✨ Acknowledgements
+
+## ✨ Acknowledgements
 
 Built using insights and patterns from the Angular community and official documentation.
