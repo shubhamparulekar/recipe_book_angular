@@ -26,10 +26,14 @@ A modern, responsive recipe book application built with Angular. Users can manag
 
 ---
 
-## 📦 Demo & Screenshots (optional)
+## 📦 Demo & Screenshots
 
-![Home](images/home.png)  
-![Add Recipe](images/add-recipe.png)
+### Home
+<img width="1280" height="1024" alt="Screenshot from 2025-08-11 21-55-00" src="https://github.com/user-attachments/assets/23cb734e-7cea-4bf1-b767-563db29d0697" />
+
+### Recipe
+<img width="1280" height="1024" alt="Screenshot from 2025-08-11 22-31-01" src="https://github.com/user-attachments/assets/b91d9bb0-af9f-43bf-aebd-bc085e2cefd8" />
+
 
 ---
 
